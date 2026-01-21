@@ -1,5 +1,7 @@
 # Blog with Users - Flask Application
 
+🌐 **[Live Demo](https://codeveer-log.onrender.com/)** - Check out the deployed application!
+
 A full-featured Flask blog application with user authentication, role-based access control, and commenting functionality. This project demonstrates advanced Flask concepts including user management, database relationships, and secure authentication.
 
 ## Features
